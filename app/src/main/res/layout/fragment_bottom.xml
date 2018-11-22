@@ -12,7 +12,6 @@
         android:layout_height="match_parent">
 
         <!-- include main content -->
-        <!--<include layout="@layout/trip_stats_main_content"/>-->
 
         <!-- include bottom sheet -->
         <include layout="@layout/bottom_sheet"/>
